@@ -1,8 +1,8 @@
-# Programming-Languages
+# Tech-Stack-Proficiency-From-C-Algorithms-to-Full-Stack-Web-Blockchain-Development
 
 <ol>
   <li>
-    <a href="https://github.com/Arannamoy-Mondal/CP">Problem Solving With C++ ( Data Structures and Algorithms)</a>
+    <a href="https://github.com/Arannamoy-Mondal/CP">Problem Solving With C++ ( Data Structures and Algorithms )</a>
   </li>
   <li>
     <a href="https://github.com/Arannamoy-Mondal/Java">OOP (Java) </a>
