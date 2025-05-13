@@ -14,7 +14,7 @@
     <a href="https://github.com/Arannamoy-Mondal/Python">OOP (Python)</a>
   </li>
   <li>
-    <a href="https://github.com/Arannamoy-Mondal/SQL">SQL</a>
+    <a href="https://github.com/Arannamoy-Mondal/SQL">MySQL</a>
   </li>
   <li>
     <a href="https://github.com/Arannamoy-Mondal/Django">Django</a>
